@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/birdy/birdy/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/birdy-py/birdy-py/blob/output/snake.svg" alt="Snake animation" />
 
 ###
